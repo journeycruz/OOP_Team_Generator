@@ -1,14 +1,9 @@
-# Team Generator using Object Oriented Programming
+# Team Generator Using Object Oriented Programming
 
 ## Description 
             
 This is a node application that allows a user to save all members of a project to an html document so that all team members and their contact information can be easily accessed.     
-            
-            
-## Table of Contents (Optional)
-
-            
-            
+         
 ## Installation
             
 Inquirer and Jest
