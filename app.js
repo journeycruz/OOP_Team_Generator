@@ -89,7 +89,7 @@ async function promptUser() {
             case "Intern":
                 await inquirer.prompt([{
                         type: "input",
-                        message: "What school do you go to?",
+                        message: "What school does this intern go to?",
                         name: "school"
                     }])
                     .then((data) => {
@@ -101,7 +101,7 @@ async function promptUser() {
             case "Engineer":
                 await inquirer.prompt([{
                         type: "input",
-                        message: "What is your GitHub username?",
+                        message: "What is this employee's GitHub username?",
                         name: "userName"
                     }])
                     .then((data) => {
